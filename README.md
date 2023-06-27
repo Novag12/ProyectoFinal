@@ -1,5 +1,8 @@
 Proyecto Final de Base de Datos
 
+Mike Guzman Garcia 2181021
+Andres Felipe Lopez Rodriguez 2129542
+
 Este repositorio contiene el proyecto final de la asignatura de Base de Datos. El proyecto consiste en el diseño e implementación de una base de datos para una biblioteca, así como en el desarrollo de una interfaz gráfica de usuario para interactuar con la base de datos.
 
 Descripción del Proyecto
